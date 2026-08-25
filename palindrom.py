@@ -1,6 +1,5 @@
 class solution:
-    def canFormPalindrome(self, s, t):
-      #Write Your Code Here...
+    def canFormPalindrome(self, s, t): 
         A = s + t
         A1 = {}
         for i in A:
