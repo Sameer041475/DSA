@@ -8,3 +8,4 @@ class solution:
             return -1
         arr = sorted(st)       
         return int(arr[-2])
+        
